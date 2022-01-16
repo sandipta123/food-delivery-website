@@ -1,13 +1,13 @@
 # food-delivery-website
 # WEB ORDERING SYSTEM MODULE:
 This module provides the functionality for customers to place their order and supply necessary details. 
- • Create an account.
+ • Create an account.(iwp1.php)
  • Manage their account.
- • Log in to the system.
- • Navigate the restaurant’s menu. 
- • Select an item from the menu. 
+ • Log in to the system. (iwp.php)
+ • Navigate the restaurant’s menu. (iwp3.php)
+ • Select an item from the menu. (momo.php/ratnadeep.php/tulip.php/dominos.php)
  •  Add an item to their current order.
- • Review their current order. 
+ • Review their current order. (cart.php)
  • Remove an item/remove all items from their current order. 
  • Provide payment details. 
  • Place an order.
